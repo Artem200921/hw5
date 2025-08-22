@@ -21,7 +21,6 @@
   "scripts": {
     "start": "npx parcel public/index.html",
     "build": "parcel build public/index.html --no-cache --public-url ./",
-    "server": "json-server public/db.json",
     "deploy": "gh-pages -d dist"
   },
   "eslintConfig": {
