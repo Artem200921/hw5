@@ -1,0 +1,29 @@
+[
+ {
+  "id": 1,
+  "photo": "https://img.chefkoch-cdn.de/rezepte/393031127655461/bilder/1585337/crop-958x539/spaghetti-bolognese.jpg",
+  "name": "Spaghetti Bolognese",
+  "difficulty": "1",
+  "serverings": 2,
+  "time": 10,
+  "calories": 400
+ },
+  {
+    "id": 2,
+    "photo": "https://www.allrecipes.com/thmb/FL-xnyAllLyHcKdkjUZkotVlHR8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/46822-indian-chicken-curry-ii-DDMFS-4x3-39160aaa95674ee395b9d4609e3b0988.jpg",
+    "name": "Chicken Curry",
+    "difficulty": "3",
+    "serverings": 4,
+    "time": 30,
+    "calories": 550
+  },
+  {
+    "id": 3,
+    "photo": "https://cdn.loveandlemons.com/wp-content/uploads/2025/02/stir-fry-recipe.jpg",
+    "name": "Vegetable Stir Fry",
+    "difficulty": "0",
+    "serverings": 3,
+    "time": 20,
+    "calories": 300
+  }
+]

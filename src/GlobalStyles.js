@@ -1,0 +1,43 @@
+import styled from "styled-components";
+
+export const GlobalStyles = styled.div`
+
+
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+/* img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+} */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+p,
+ul,
+figure {
+  margin: 0px;
+  padding: 0px;
+}
+
+button {
+  border: none;
+  outline: none;
+}
+
+ul,
+menu {
+  margin: 0;
+  list-style: none;
+}
+`;
