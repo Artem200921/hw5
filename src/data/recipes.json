@@ -25,5 +25,14 @@
     "serverings": 3,
     "time": 20,
     "calories": 300
+  },
+  {
+    "id": 4,
+    "photo": "https://www.inspiredtaste.net/wp-content/uploads/2025/07/Pancake-Recipe-1.jpg",
+    "name": "Pancakes",
+    "difficulty": "1",
+    "serverings": 4,
+    "time": 15,
+    "calories": 350
   }
 ]
